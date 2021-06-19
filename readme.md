@@ -1,6 +1,6 @@
 ### Video Streamer
 
-## FInstructions:
+## Instructions:
 
 1. git clone https://github.com/prithvijitguha/Video-Stream.git - Only required for first time
 2. pip install -r requirements.txt - Only required for first time
